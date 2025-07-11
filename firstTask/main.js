@@ -42,7 +42,7 @@ function editTask(ind){
 }
 function showarr(){
     let show = document.getElementById("showtask")
-    show.innerHTML = `<h1> let me show u your tasks</h1> 
+    show.innerHTML = `
     ${arr.map((val,ind)=>`<div class = "row" >  ${ind+1}.${val} <div class ="editdelete"> <button class=${"edit"}keyy= ${ind} onclick=editTask(${ind})> Edit </button> <button key= ${ind} class=${"delete"} onclick=deleteTask(${ind})> delete</button></div></div>`).join("")}`
 }
 showarr()

@@ -12,19 +12,19 @@ A simple todo list web application built using HTML, CSS, and JavaScript.
 
 ### Adding Task
 
-![Screenshot](screenshots/add-1.png)
-![Screenshot](screenshots/add-2.png)
-![Screenshot](screenshots/add-3.png)
+![Screenshot](screenshots/add1.png)
+![Screenshot](screenshots/add2.png)
+<!-- ![Screenshot](screenshots/add-3.png) -->
 
 ### Editing a Task
 
-![Screenshot](screenshots/edit-1.png)
-![Screenshot](screenshots/edit-2.png)
-![Screenshot](screenshots/edit-3.png)
+![Screenshot](screenshots/edit1.png)
+![Screenshot](screenshots/edit2.png)
+![Screenshot](screenshots/edit3.png)
 
 ### Deleting a Task
 
-![Screenshot](screenshots/edit-3.png)
+![Screenshot](screenshots/edit3.png)
 ![Screenshot](screenshots/delete-1.png)
 
 ## How to Run
