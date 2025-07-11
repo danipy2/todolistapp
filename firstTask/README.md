@@ -25,7 +25,7 @@ A simple todo list web application built using HTML, CSS, and JavaScript.
 ### Deleting a Task
 
 ![Screenshot](screenshots/edit3.png)
-![Screenshot](screenshots/delete-1.png)
+![Screenshot](screenshots/deletef1.png)
 
 ## How to Run
 
